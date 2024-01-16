@@ -1,0 +1,1 @@
+This Power BI dashboard helps Happy Studio (a global company that provides premium recording equipment for content creators) management to make decisions towards sustained success. By using Microsoft Power BI to transform their raw data into actionable insights.
